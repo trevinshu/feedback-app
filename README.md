@@ -10,6 +10,8 @@ App to give feedback. This is the first project from the React Front To Back 202
 
 ## Live Preview
 
+https://feedback-app-react-trevin.netlify.app/
+
 ## Languages, Tools, Techniques & Packages Used
 
 - React
