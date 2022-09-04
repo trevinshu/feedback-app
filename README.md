@@ -21,6 +21,8 @@ https://feedback-app-react-trevin.netlify.app/
 - Framer Motion
 - UUID
 - useContext, useState, useEffect
+- JSON Server
+- Concurrently (runs JSON server & app at the same)
 
 ## Built By
 
