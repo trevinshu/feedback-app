@@ -29,7 +29,6 @@ npm run dev
 - CRA (Create React App)
 - React Icons
 - Framer Motion
-- UUID
 - useContext, useState, useEffect
 - JSON Server
 - Concurrently (runs JSON server & app at the same)
