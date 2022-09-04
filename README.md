@@ -8,9 +8,19 @@ Brad Traversy
 
 App to give feedback. This is the first project from the React Front To Back 2022 course.
 
-## Live Preview
+## How to Use
 
-https://feedback-app-react-trevin.netlify.app/
+```JavaScript
+npm install
+```
+
+```JavaScript
+npm run dev
+```
+
+## Screenshot
+
+![](src/components/assets/feedback-app.png/?raw=true)
 
 ## Languages, Tools, Techniques & Packages Used
 
